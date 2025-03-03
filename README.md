@@ -1,0 +1,1 @@
+Accessed ChatGPT, OpenAI, 2 Mar. 2025, chat.openai.com. to help code the confusion_matrix. ChatGPT showed I should use "from sklearn.metrics import confusion_matrix" in order to populate the correct result. 
